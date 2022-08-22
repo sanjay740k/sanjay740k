@@ -1,7 +1,15 @@
-### Hi there 👋
+# Hey 👋, This is Sanjay Kumar Kurmi
+### About me 🤓
+A tech enthusiast with a passion to solve problems and making things. Proven skills in Backend Development, Android application development, C++ programming, and algorithmic problem-solving, and I believe that I am a versatile learner and can get going with any sort of work.
+
+Skills: Web Developer | C++ | Java | Android Developer | Competitive Programmer.
+
+Position: Associate Software Engineer @ Cogoport.
+
+<a href = https://www.linkedin.com/in/sanjay-kumar-kurmi><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/sanjay740k><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
 
 <!--
-**sanjay740k/sanjay740k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sanjay0178/sanjay0178** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
