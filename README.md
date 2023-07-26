@@ -4,7 +4,7 @@ A tech enthusiast with a passion to solve problems and making things. Proven ski
 
 Skills: Web Developer | C++ | Java | Android Developer | Competitive Programmer.
 
-Position: Associate Software Engineer @ Cogoport.
+Position: Software Engineer @ Cogoport.
 
 <a href = https://www.linkedin.com/in/sanjay-kumar-kurmi><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' alt="LinkedIn" weight='30'></a> • <a href = https://github.com/sanjay740k><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg alt="Github" height='30' weight='30'></a> • <a href = https://www.instagram.com/sanjay.kurmi1><img src=https://cdn-icons-png.flaticon.com/512/2111/2111463.png alt="Instagram" height='30' weight='30'></a>
 
