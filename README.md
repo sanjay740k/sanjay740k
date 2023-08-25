@@ -1,7 +1,12 @@
 # Hey 👋, This is Sanjay Kumar Kurmi
 ### About me 🤓
-A tech enthusiast with a passion to solve problems and making things. Proven skills in Backend Development, Android application development, C++ programming, and algorithmic problem-solving, and I believe that I am a versatile learner and can get going with any sort of work.
+I am an Electronics and Communication Engineering graduate from the Indian Institute of Technology (ISM), Dhanbad.
 
+Currently working as a Software Engineer at COGOPORT, I excel in Android app development using Kotlin, XML, MVVM Architecture, and Backend using Kotlin and Spring Boot.
+
+I am a tech enthusiast passionate about solving problems and making things. I have proven skills in Backend Development, Android application development, and algorithmic problem-solving. I believe I am a versatile learner and can get going with any sort of work.
+
+Sports programming is a significant interest of mine, and I have achieved commendable ratings and problem-solving abilities on platforms like Codeforces, CodeChef, and Kickstart.
 Skills: Backend Developer | C++ | Kotlin | Go | Python | Android Developer | Competitive Programmer.
 
 Position: Software Engineer @ Cogoport.
