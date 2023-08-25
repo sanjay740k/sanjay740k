@@ -7,7 +7,9 @@ Currently working as a Software Engineer at COGOPORT, I excel in Android app dev
 I am a tech enthusiast passionate about solving problems and making things. I have proven skills in Backend Development, Android application development, and algorithmic problem-solving. I believe I am a versatile learner and can get going with any sort of work.
 
 Sports programming is a significant interest of mine, and I have achieved commendable ratings and problem-solving abilities on platforms like Codeforces, CodeChef, and Kickstart.
-Skills: Backend Developer | C++ | Kotlin | Go | Python | Android Developer | Competitive Programmer.
+
+
+Skills: Backend Developer | C++ | Kotlin | Spring Boot | Go | Python | Android Developer | Competitive Programmer.
 
 Position: Software Engineer @ Cogoport.
 
